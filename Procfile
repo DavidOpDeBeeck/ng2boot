@@ -1,0 +1,1 @@
+java -Dserver.port=$PORT -Dspring.profiles=dev $JAVA_OPTS -jar ng2boot-rest/build/libs/*.jar
